@@ -26,10 +26,10 @@ $ pip install Scrapy
 ```
 
 ## Desired output	
-* We decided to scrape the information on Best books by century. The following information on each book was scraped:
-** title of the book,
-** author of the book,
-** website - link to the book’s website on Goodreads,
-** average rating – average rating of the book from the users,
-** score,
-** number of votes.
+We decided to scrape the information on Best books by century. The following information on each book was scraped:
+* title of the book,
+* author of the book,
+* website - link to the book’s website on Goodreads,
+* average rating – average rating of the book from the users,
+* score,
+* number of votes.
