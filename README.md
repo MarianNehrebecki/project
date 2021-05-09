@@ -3,10 +3,10 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Instruction how to run the scrapers](#Instruction-how-to-run-the-scrapers)
-** [Scrapers](#Scrapers)
-** [Short technical description of the scraper](#Short-technical-description-of-the-scraper)
-** [Setup](#setup)
-** [Desired output](#Desired-output)
+* [Scrapers](#Scrapers)
+* [Short technical description of the scraper](#Short-technical-description-of-the-scraper)
+* [Setup](#setup)
+* [Desired output](#Desired-output)
 
 
 
