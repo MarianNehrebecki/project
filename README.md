@@ -3,6 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Desired output](#Desired output)
 
 ## General info
 * The project was created as part of Webscraping and Social Media Scraping subject. 
