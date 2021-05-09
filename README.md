@@ -22,7 +22,7 @@ Project is created with:
 ## Scrapers
 We scraped the desired data from the Goodreads website using Python language and applied three different methods:
 * beautiful soup (see: folder soup, file soup.py),
-* scrapy see: folder scrapy, first file  scrapy_file.py,
+* scrapy (see: folder scrapy, file scrapy_file.py and folder additional_scrapy, file scrapy_data_reader_im-not-a-spider.py)
 * selenium (see: folder selenium, file selenium.py).
 
 ## Short technical description of the scraper
