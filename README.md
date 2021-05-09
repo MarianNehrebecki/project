@@ -2,11 +2,11 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Instruction how to run your scrapers](#Instruction-how-to-run-your-scrapers)
-* [Scrapers](#Scrapers)
-* [Short technical description of the scraper](#Short-technical-description-of-the-scraper)
-* [Setup](#setup)
-* [Desired output](#Desired-output)
+* [Instruction how to run the scrapers](#Instruction-how-to-run-the-scrapers)
+** [Scrapers](#Scrapers)
+** [Short technical description of the scraper](#Short-technical-description-of-the-scraper)
+** [Setup](#setup)
+** [Desired output](#Desired-output)
 
 
 
@@ -20,7 +20,7 @@
 Project is created with:
 * Python 3.6
 
-## Instruction how to run your scrapers
+## Instruction how to run the scrapers
 
 
 ### Scrapers
