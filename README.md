@@ -2,6 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Scrapers](#Scrapers)
 * [Setup](#setup)
 * [Desired output](#Desired output)
 
@@ -14,9 +15,15 @@
 ## Technologies
 Project is created with:
 * Python 3.6
+
+## Scrapers
+We scraped the desired data from the Goodreads website using Python language and applied three different methods:
+* beautiful soup,
+* scrapy,
+* selenium.
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using terminal:
 
 ```
 $ pip install beautifulsoup4
@@ -33,3 +40,6 @@ We decided to scrape the information on Best books by century. The following inf
 * average rating – average rating of the book from the users,
 * score,
 * number of votes.
+
+
+
