@@ -25,7 +25,7 @@ headers = one[0:6] #creating headers
 headers[5] = headers[5][:7] #cleaning the data
 print(headers)
 
-#creating columns from lists for each variable # only for first two centuries scraped - the logic can be folowed for the rest
+#creating columns from lists for each variable # only for first two centuries scraped - the logic can be followed for the rest
 authors = one[6:] +columns[6].split(',') 
 authors[0]=authors[0][9:]
 avgrating = columns[1].split('ratings') + columns[7].split('ratings')  
