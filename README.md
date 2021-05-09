@@ -3,6 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Scrapers](#Scrapers)
+* [Short technical description of the scraper](#Short-technical-description-of-the-scraper)
 * [Setup](#setup)
 * [Desired output](#Desired-output)
 
@@ -23,6 +24,16 @@ We scraped the desired data from the Goodreads website using Python language and
 * beautiful soup,
 * scrapy,
 * selenium.
+
+## Short technical description of the scraper
+1.	Import packages (bs4, request, pandas, numpy, sleep(), randint()).
+2.	Preparation of the storage of the scraping data.
+3.	Analysis of the URL
+4.	Scraping multiple pages 
+5.	Cleaning data 
+6.	Checking missing data
+7.	Time measurement for scraping data.
+
 	
 ## Setup
 To run this project, install it locally using terminal:
