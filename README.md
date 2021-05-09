@@ -2,6 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Instruction how to run your scrapers](#Instruction-how-to-run-your-scrapers)
 * [Scrapers](#Scrapers)
 * [Short technical description of the scraper](#Short-technical-description-of-the-scraper)
 * [Setup](#setup)
@@ -19,7 +20,10 @@
 Project is created with:
 * Python 3.6
 
-## Scrapers
+## Instruction how to run your scrapers
+
+
+### Scrapers
 We scraped the desired data from the Goodreads website using Python language and applied three different methods:
 * beautiful soup (see: folder soup, file soup.py),
 * scrapy (see: folder scrapy, file scrapy_file.py and folder additional_scrapy, file scrapy_data_reader_im-not-a-spider.py),
@@ -27,7 +31,7 @@ We scraped the desired data from the Goodreads website using Python language and
 
 * GitHub repository contains three separate folders which, respectively, contain all files required to run each of the scrapers (scrapy folder contains the additional file for reading the data!).
 
-## Short technical description of the scraper
+### Short technical description of the scraper
 1.	Import packages
 2.	Preparation of the storage of the scraping data
 3.	Analysis of the URL
@@ -37,7 +41,7 @@ We scraped the desired data from the Goodreads website using Python language and
 7.	Time measurement for scraping data
 
 	
-## Setup
+### Setup
 To run this project, install it locally using terminal:
 
 ```
@@ -47,7 +51,8 @@ $ pip install webdriver_manager
 $ pip install Scrapy
 ```
 
-## Desired output	
+
+### Desired output	
 We decided to scrape the information on Best books by century. The following information on each book was scraped:
 * title of the book,
 * author of the book,
