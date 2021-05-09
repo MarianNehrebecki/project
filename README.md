@@ -1,6 +1,9 @@
 # Scraping Goodreads with python
 ## Table of contents
-
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* 
 ## General info
 * The project was created as part of Webscraping and Social Media Scraping subject. 
 * With a few lines of code (with different levels of complicated of course) we will hopefully be able to scrape the desired data. Our target is the Goodreads website (books’ rating and recommendations) and basic data on books.
