@@ -26,7 +26,7 @@ We scraped the desired data from the Goodreads website using Python language and
 * selenium.
 
 ## Short technical description of the scraper
-1.	Import packages (bs4, request, pandas, numpy, sleep(), randint()).
+1.	Import packages.
 2.	Preparation of the storage of the scraping data.
 3.	Analysis of the URL
 4.	Scraping multiple pages 
