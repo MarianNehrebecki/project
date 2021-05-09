@@ -3,7 +3,7 @@ import csv
 import pandas as pd
 import regex as re
 
-# 2. opening the scraoy output
+# 2. opening the scrapy output
 f = open("plik.csv", 'r') #please provide a correct file name
 f # it is a buffered text stream
 data = f.read() # read the buffer into data
@@ -42,7 +42,7 @@ website = columns[5].split(',') + columns[11].split(',')
 #print(title)
 #print(votes)
 
-# 4. addisng the split data into separate lists 
+# 4. adding the split data into separate lists 
 list=[]
 
 list.append(authors)
@@ -53,7 +53,7 @@ list.append(title)
 list.append(votes)
 list.append(website)
 
-# 5. creatng a dataframe
+# 5. creating a dataframe
 
 print(list)
 books = pd.DataFrame(list, index=[headers]).T
